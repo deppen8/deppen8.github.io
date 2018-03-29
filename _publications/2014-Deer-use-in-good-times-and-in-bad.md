@@ -1,7 +1,7 @@
 ---
 title: "Deer use in good times and in bad: A Fort Ancient case study from southwest Ohio"
 collection: publications
-permalink: /publication/2014-Deer-use-in-good-times-and-in-bad
+permalink: /publications/2014-Deer-use-in-good-times-and-in-bad
 excerpt: 'A study of the complex dynamics of climate change, animal communities, and human behavior'
 date: 2014-01-01
 venue: 'Environmental Archaeology'

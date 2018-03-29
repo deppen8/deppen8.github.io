@@ -1,7 +1,7 @@
 ---
 title: "Chronometric Dating Report for the Reinhardt Site (33PI880)"
 collection: publications
-permalink: /publication/2009-Chronometric-dating-report-for-the-Reinhardt-Site
+permalink: /publications/2009-Chronometric-dating-report-for-the-Reinhardt-Site
 excerpt: 'This paper is a technical report of the results of some luminescence dating work.'
 date: 2009-01-01
 venue: 
