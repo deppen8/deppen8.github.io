@@ -1,7 +1,9 @@
 # Site content
-The site content is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license.
+The general site content like text and images is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license.
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Some projects described on the site may have different licenses. See those project pages for more specific license information.
 
 # Site template
 The site template is licensed under the MIT License
