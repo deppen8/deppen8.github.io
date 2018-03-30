@@ -151,6 +151,7 @@ exclude:
   - talkmap
   - talkmap.ipynb
   - talkmap.py
+  - _posts
 keep_files:
   - .git
   - .svn
