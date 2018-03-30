@@ -6,7 +6,7 @@ collection: portfolio
 
 [View the GitHub repository](https://github.com/deppen8/dissertation-ghost)
 
-<img align="right" src="diss-ghost-screen.png">Dissertation Ghost is a simple Android app I created with [MIT App Inventor 2](http://appinventor.mit.edu/explore/) to track progress towards a milestone in my dissertation research.
+<img align="right" src="/images/diss-ghost-screen.png">Dissertation Ghost is a simple Android app I created with [MIT App Inventor 2](http://appinventor.mit.edu/explore/) to track progress towards a milestone in my dissertation research.
 
 A big portion of my work is a synthesis and analysis of existing publications and reports, a task I am tackling with qualitative analysis software, NVIVO. I use NVIVO to code digital versions of publications so that I can query and summarize my notations easily.
 
@@ -21,6 +21,7 @@ In one of my favorite video games, Super Mario Kart, the [Ghost](https://www.mar
 If you think the app might be helpful to you, you can download it for free. The app is not posted in the Google Play Store, so you will need to download and install the .apk file. [Some instructions from the MIT App Inventor docs](http://appinventor.mit.edu/explore/ai2/share.html):
 
 > Anyone installing your app (which is an “.apk” file) will need to change the setting on their phone to allow installation of non-market applications:
+>
 > To find this setting on versions of Android prior to 4.0, go to “Settings > Applications” and then check the box next to “Unknown Sources”. For devices running Android 4.0 or above, go to “Settings > Security” or “Settings > Security & Screen Lock” and then check the box next to “Unknown Sources” and confirm your choice.
 
 Important notes:
