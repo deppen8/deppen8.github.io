@@ -1,6 +1,6 @@
 ---
 title: "LEIA Project Metadata"
-excerpt: "<br/><img src='/images/survey_time.png'>"
+excerpt: "Using metadata to understand better understand survey data and methods<br/><img src='/images/survey_time.png'>"
 collection: portfolio
 ---
 
