@@ -140,6 +140,17 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - _pages/year-archive
+  - _pages/archive-layout-with-content
+  - _pages/markdown
+  - markdown_generator
+  - _pages/non-menu-page
+  - _pages/page-archive
+  - _pages/terms
+  - _pages/talkmap
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
 keep_files:
   - .git
   - .svn
