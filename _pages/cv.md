@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-B.A. in Anthropology, minor in Geography (GIS), The Ohio State University, 2008
-M.A. in Anthropology (Archaeology), University of Washington, 2010
-Ph.D. in Anthropology (Archaeology), University of Washington, in progress
+* B.A. in Anthropology, minor in Geography (GIS), The Ohio State University, 2008
+* M.A. in Anthropology (Archaeology), University of Washington, 2010
+* Ph.D. in Anthropology (Archaeology), University of Washington, in progress
 
 ## Research experience
 ### Project co-leader, Landscape, Encounters, and Identity Archaeology Project, University of Washington
