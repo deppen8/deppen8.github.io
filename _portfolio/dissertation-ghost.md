@@ -1,6 +1,6 @@
 ---
 title: "Dissertation Ghost app"
-excerpt: "A simple Android counter app<br/><img src='/images/dissertation-ghost.png'>"
+excerpt: "A simple Android counter app<br/><img src='/images/diss-ghost-mit.png'>"
 collection: portfolio
 ---
 
@@ -43,3 +43,5 @@ Some possible customizations:
 To get the source code, download the .aia file, which you can then import into MIT App Inventor 2 (Project –> Import project (.aia) from my computer).
 
 If you do remix or customize the app, I’d love to hear about it and link to it.
+
+<img src='/images/dissertation-ghost-icon.png'>
