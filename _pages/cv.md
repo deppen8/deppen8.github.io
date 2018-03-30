@@ -11,9 +11,7 @@ redirect_from:
 
 ## Education
 B.A. in Anthropology, minor in Geography (GIS), The Ohio State University, 2008
-
 M.A. in Anthropology (Archaeology), University of Washington, 2010
-
 Ph.D. in Anthropology (Archaeology), University of Washington, in progress
 
 ## Research experience
@@ -56,41 +54,43 @@ Ph.D. in Anthropology (Archaeology), University of Washington, in progress
   
 ## Skills
 ### Programming & technical skills
-* Python
-  * numpy
-  * pandas
-  * scikit-learn
-  * matplotlib
-  * seaborn
-  * bokeh
-  * ArcPy
-  * geopandas
-  * ...and more
-* R
-* ArcGIS Desktop Suite
-* Basic SQL and SQLite
-* Tableau
-* NVIVO
-* HTCondor
-* HTML/CSS web programming
-* Basic Adobe Photoshop, Illustrator
-* Microsoft Office Suite
+  * Python
+    * numpy
+    * pandas
+    * scikit-learn
+    * matplotlib
+    * seaborn
+    * bokeh
+    * ArcPy
+    * geopandas
+    * ...and more
+  * R
+  * ArcGIS Desktop Suite
+  * Basic SQL and SQLite
+  * Tableau
+  * NVIVO
+  * HTCondor
+  * HTML/CSS web programming
+  * Basic Adobe Photoshop, Illustrator
+  * Microsoft Office Suite
+
 ### Archaeological field proficiencies
-* Detailed note taking and documentation
-* Auger and soil core testing
-* Shovel-probe testing
-* Extensive subsurface excavation and screening
-* Plan and profile drawing
-* Field photography
-* Systematic pedestrian surface survey
-* Compass-based mapping and orienteering
-* Total station mapping
-* Handheld GPS devices (e.g., Garmin eTrex, GPSMap 64s)
-* Mapping-grade GPS devices (e.g., Trimble ProXH, Pro6H)
-* Ruggedized computers/tablets (e.g., Panasonic Toughbook/Toughpad)
-* UAV-based photography
+  * Detailed note taking and documentation
+  * Auger and soil core testing
+  * Shovel-probe testing
+  * Extensive subsurface excavation and screening
+  * Plan and profile drawing
+  * Field photography
+  * Systematic pedestrian surface survey
+  * Compass-based mapping and orienteering
+  * Total station mapping
+  * Handheld GPS devices (e.g., Garmin eTrex, GPSMap 64s)
+  * Mapping-grade GPS devices (e.g., Trimble ProXH, Pro6H)
+  * Ruggedized computers/tablets (e.g., Panasonic Toughbook/Toughpad)
+  * UAV-based photography
+
 ### Language skills
-* Basic Spanish, Catalan
+  * Basic Spanish, Catalan
 
 ## Publications
   <ul>{% for post in site.publications %}
