@@ -9,24 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.A. in Anthropology, minor in Geography (GIS), The Ohio State University, 2008
-* M.A. in Anthropology (Archaeology), University of Washington, 2010
-* Ph.D. in Anthropology (Archaeology), University of Washington, in progress
+## Education
+B.A. in Anthropology, minor in Geography (GIS), The Ohio State University, 2008
+M.A. in Anthropology (Archaeology), University of Washington, 2010
+Ph.D. in Anthropology (Archaeology), University of Washington, in progress
 
-Research experience
-======
-* Project co-leader, Landscape, Encounters, and Identity Archaeology Project, UW
-  * 2013-PRESENT
+## Research experience
+### Project co-leader
+Landscape, Encounters, and Identity Archaeology Project, University of Washington
+2013-PRESENT
   * Collaborated with an international team to design and lead a multi-year field research project in Spain
   * Wrote Python code to automate analysis of a large dataset and generate daily progress reports and an annual technical report sent to the Spanish government
   * Used Python to mine the metadata associated with GPS data to evaluate the efficacy of the field research design and detect biases in methodology
   * Assisted in the design of a web-based data entry portal and related database
   * Supervised field/lab teams of 10-20 Spanish and American university students
 
-* Graduate researcher, Digital Archaeology Research Lab, UW
-  * 2010-PRESENT
+#### Graduate researcher
+Digital Archaeology Research Lab, University of Washington
+2010-PRESENT
   * Co-wrote simulations (Python with ArcPy) that run on a high-throughput system (HTCondor) to enable analyses at unprecedented scales in archaeology
   * Designed and wrote a tool (Python with Tkinter) with a GUI to simplify the process of creating a properly-formatted submission file for HTCondor operations
   * Created a simulation in R to visualize the effects of sample size on various diversity indices
