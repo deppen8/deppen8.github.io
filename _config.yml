@@ -146,6 +146,7 @@ exclude:
   - markdown_generator
   - _pages/non-menu-page
   - _pages/page-archive
+  - _pages/posts
   - _pages/terms
   - _pages/talkmap
   - talkmap
