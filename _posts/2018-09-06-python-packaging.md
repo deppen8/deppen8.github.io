@@ -88,6 +88,6 @@ $ pip install ./downloads/leiap-0.1.1.tar.gz
 
 From there, the package should work exactly as any other package you are used to like `pandas` or `numpy`. Common IDE features like help and tab-completion should work as expected.
 
-![help_in_jupyter](../images/blog/package_help.png)
+![help_in_jupyter](/images/blog/package_help.png)
 
 So there you have it. Some hacked-together code that crudely imported `.csv` files and was scattered across various Jupyter Notebooks now exists as its very own Python package, ready to be shared and installed wherever it's needed.
