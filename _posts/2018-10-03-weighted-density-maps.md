@@ -20,6 +20,4 @@ North African amphorae | North African common ware
 |:--------------------:|:-------------------------:|
 ![NorthAfricanAmphorae](/images/blog/NorthAfricanAmphorae.png) | ![NorthAfricanAmphorae](/images/blog/NorthAfricanCommonware.png)
 
-![NorthAfricanCommonware](/images/blog/NorthAfricanCommonware.png.png)
-
 If you find yourself looking at those two images and shrugging, I don't blame you. But if you know what your are looking at, you can see subtle but important differences between those two ceramic types.
