@@ -18,8 +18,8 @@ It turns out that the density calculations are the easy part. Of the roughly 150
 
 North African amphorae | North African common ware
 |:--------------------:|:-------------------------:|
-![Àmfora Nord-Africana](/images/blog/NorthAfricanAmphorae.png) | ![Ceràmica Comuna Nord-Africana](/images/blog/NorthAfricanCommonware.png)
+![NorthAfricanAmphorae](/images/blog/NorthAfricanAmphorae.png) | ![NorthAfricanAmphorae](/images/blog/NorthAfricanCommonware.png)
 
-![Àmfora Nord-Africana](/images/blog/NorthAfricanCommonware.png.png)
+![NorthAfricanCommonware](/images/blog/NorthAfricanCommonware.png.png)
 
 If you find yourself looking at those two images and shrugging, I don't blame you. But if you know what your are looking at, you can see subtle but important differences between those two ceramic types.
