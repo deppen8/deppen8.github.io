@@ -16,10 +16,10 @@ For the last couple of years, Marcos Llobera and I have been producing density m
 
 It turns out that the density calculations are the easy part. Of the roughly 150 lines of code, only about 10 are directly related to calculating density. It's the map elements and especially the layout that have given me the most problems. In the end, we produced plots for all of our roughly 70 ceramic types, each with four different kernel sizes. Here are just a couple examples:
 
-| North African amphorae | North African common ware |
-|:----------------------:|:-------------------------:|
-|![Àmfora Nord-Africana](/images/blog/Àmfora Nord-Africana.png) | ![Ceràmica Comuna Nord-Africana](/images/blog/Ceràmica Comuna Nord-Africana.png) |
+North African amphorae | North African common ware
+|:--------------------:|:-------------------------:|
+![Àmfora Nord-Africana](/images/blog/NorthAfricanAmphorae.png) | ![Ceràmica Comuna Nord-Africana](/images/blog/NorthAfricanCommonware.png)
 
-![Àmfora Nord-Africana](/images/blog/Àmfora Nord-Africana.png)
+![Àmfora Nord-Africana](/images/blog/NorthAfricanCommonware.png.png)
 
 If you find yourself looking at those two images and shrugging, I don't blame you. But if you know what your are looking at, you can see subtle but important differences between those two ceramic types.
