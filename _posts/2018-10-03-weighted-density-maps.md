@@ -20,5 +20,6 @@ It turns out that the density calculations are the easy part. Of the roughly 150
 |:----------------------:|:-------------------------:|
 |![Àmfora Nord-Africana](/images/blog/Àmfora Nord-Africana.png) | ![Ceràmica Comuna Nord-Africana](/images/blog/Ceràmica Comuna Nord-Africana.png) |
 
+![Àmfora Nord-Africana](/images/blog/Àmfora Nord-Africana.png)
 
 If you find yourself looking at those two images and shrugging, I don't blame you. But if you know what your are looking at, you can see subtle but important differences between those two ceramic types.
