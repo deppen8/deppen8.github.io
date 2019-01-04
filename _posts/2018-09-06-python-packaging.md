@@ -12,10 +12,14 @@ tags:
 
 The title of this post is meant in every sense. It is both a command and an indicator of what will follow.
 
-For the last few years, I have been writing small Python functions and scripts to help in the analysis of data from the LEIA Project. This includes [my metadata analyses](https://deppen8.github.io/portfolio/1-leia_project_metadata/) as well as a number of scripts that synthesize and visualize data for the annual report submitted to the Consell Insular de Mallorca, the government body that issues archaeological permits. All of this code was stored in various Jupyter Notebooks. However, [Jupyter Notebooks are *not* a perfect place to do reproducible research](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit?usp=sharing). Here is the workflow I was using:
+For the last few years, I have been writing small Python functions and scripts to help in the analysis of data from the LEIA Project. This includes [my metadata analyses](https://deppen8.github.io/portfolio/leia_project_metadata/) as well as a number of scripts that synthesize and visualize data for the annual report submitted to the Consell Insular de Mallorca, the government body that issues archaeological permits. All of this code was stored in various Jupyter Notebooks. However, [Jupyter Notebooks are *not* a perfect place to do reproducible research](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit?usp=sharing). Here is the workflow I was using:
+
 1. Download the latest data from the database as `.csv` using our online portal's simple export utilities.
+
 2. Read the `.csv` file into a `pandas` DataFrame. In doing this, I also had to specify a number of options so that `pandas` would assign the types to different columns correctly.
+
 3. Filter the data in various ways. For example, removing artifacts that were marked as "discarded" in the database.
+
 4. Finally, do the actual analysis that I wanted to do.
 
 While that isn't a terrible way to go about things and *can* be done in Jupyter Notebooks if one is careful, steps 1-3 get repeated in slightly different ways in almost every notebook. [Ideally](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), I want to avoid that repetition. I also wanted something that I could share easily with my colleagues and other researchers.
@@ -30,7 +34,7 @@ After I had everything more or less organized, I didn't really know what to do n
 
 Putting it all together, I now have a directory that looks like this:
 
-```
+```text
 leiap/
     leiap/
         __init__.py
@@ -59,16 +63,21 @@ from .mapping import *
 ```
 
 I can use the generic import statement to get access to all of the functions I wrote. For example, I can use the very clean
+
 ```python
 import leiap
 leiap.fields_summary_table()
 ```
+
 instead of less clean alternatives like
+
 ```python
 from leiap.report import fields_summary_table
 fields_summary_table()
 ```
-or 
+
+or
+
 ```python
 import leiap
 leiap.report.fields_summary_table()
