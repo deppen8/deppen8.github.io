@@ -1,6 +1,6 @@
 ---
 title: "Dissertation Ghost app"
-excerpt: "A simple Android counter app<br/><img src='/images/diss-ghost-mit.png'>"
+excerpt: "A simple Android counter app<br/><img src='/images/diss-ghost-mit.png'><br/>"
 collection: portfolio
 ---
 

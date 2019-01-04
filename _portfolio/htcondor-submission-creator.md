@@ -1,6 +1,6 @@
 ---
 title: "HTCondor Submission Creator"
-excerpt: "A Python script and UI designed to create submission files for HTCondor<br/><img src='/images/submit_creator.png'>"
+excerpt: "A Python script and UI designed to create submission files for HTCondor<br/><img src='/images/submit_creator.png'><br/>"
 collection: portfolio
 ---
 
