@@ -4,6 +4,9 @@ excerpt: "Interactive visualization for seismic data<br/><img src='/images/blog/
 collection: portfolio
 ---
 
+[![ghw_badge](https://img.shields.io/badge/GitHub-ghw2018__tremorviz-blue.svg?logo=github)](https://github.com/geohackweek/ghw2018_tremorviz/)
+[![badge](https://img.shields.io/badge/GitHub-tremorviz-blue.svg?logo=github)](https://github.com/deppen8/tremorviz)
+
 In 2018, I had the privilege of taking part in [Geohackweek](http://geohackweek.github.io/), a week-long event from the [UW eScience Institute](https://escience.washington.edu/) that brings together people from academia and industry to learn about and practice the latest developments at the intersection of data science and geospatial analyses.
 
 On the first day, some participants pitched general project ideas and recruited people to flesh out and work on those projects with them. [Because I had been thinking a lot about interactive data visualizations](https://deppen8.github.io/posts/2018/09/shareable-dashboard/), I joined three other participants to work on improving data visualizations of seismic tremor data.

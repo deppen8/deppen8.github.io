@@ -4,7 +4,7 @@ excerpt: "A simple Android counter app<br/><img src='/images/diss-ghost-mit.png'
 collection: portfolio
 ---
 
-[View the GitHub repository](https://github.com/deppen8/dissertation-ghost)
+[![badge](https://img.shields.io/badge/GitHub-dissertation--ghost-blue.svg?logo=github)](https://github.com/deppen8/dissertation-ghost)
 
 <img align="right" src="/images/diss-ghost-screen.png">Dissertation Ghost is a simple Android app I created with [MIT App Inventor 2](http://appinventor.mit.edu/explore/) to track progress towards a milestone in my dissertation research.
 
