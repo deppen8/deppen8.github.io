@@ -6,8 +6,6 @@ collection: portfolio
 
 [![badge](https://img.shields.io/badge/GitHub-dissertation--ghost-blue.svg?logo=github)](https://github.com/deppen8/dissertation-ghost)
 
-<img src='/images/dissertation-ghost-icon.png'>
-
 <img align="right" src="/images/diss-ghost-screen.png">Dissertation Ghost is a simple Android app I created with [MIT App Inventor 2](http://appinventor.mit.edu/explore/) to track progress towards a milestone in my dissertation research.
 
 A big portion of my work is a synthesis and analysis of existing publications and reports, a task I am tackling with qualitative analysis software, NVIVO. I use NVIVO to code digital versions of publications so that I can query and summarize my notations easily.
@@ -45,3 +43,5 @@ Some possible customizations:
 To get the source code, download the .aia file, which you can then import into MIT App Inventor 2 (Project –> Import project (.aia) from my computer).
 
 If you do remix or customize the app, I’d love to hear about it and link to it.
+
+<img src='/images/dissertation-ghost-icon.png'>
