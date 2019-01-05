@@ -10,6 +10,6 @@ author_profile: true
 
 {% assign sorted_projects = site.portfolio | sort: "date" %}
 {% for post in sorted_projects reversed %}
-  {% include archive-single-portfolio.html %}
+  {% include archive-single.html %}
 {% endfor %}
 
