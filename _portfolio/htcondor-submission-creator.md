@@ -2,6 +2,7 @@
 title: "HTCondor Submission Creator"
 excerpt: "A Python script and UI designed to create submission files for HTCondor<br/><img src='/images/submit_creator.png'><br/>"
 collection: portfolio
+date: 2015-01-01
 ---
 
 [![badge](https://img.shields.io/badge/GitHub-condor--submit--creator-blue.svg?logo=github)](https://github.com/deppen8/condor-submit-creator)

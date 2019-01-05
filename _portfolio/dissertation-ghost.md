@@ -2,6 +2,7 @@
 title: "Dissertation Ghost app"
 excerpt: "A simple Android counter app<br/><img src='/images/diss-ghost-mit.png'><br/>"
 collection: portfolio
+date: 2016-01-01
 ---
 
 [![badge](https://img.shields.io/badge/GitHub-dissertation--ghost-blue.svg?logo=github)](https://github.com/deppen8/dissertation-ghost)

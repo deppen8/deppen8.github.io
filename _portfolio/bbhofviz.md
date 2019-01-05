@@ -2,6 +2,7 @@
 title: "BBHOFviz"
 excerpt: "Interactive visualization of Baseball Hall of Fame voting<br/><img src='/images/bbhofviz-thumb.png'><br/>"
 collection: portfolio
+date: 2018-11-30
 ---
 
 [![badge](https://img.shields.io/badge/GitHub-bbhof__viz-blue.svg?logo=github)](https://github.com/deppen8/bbhof_viz)

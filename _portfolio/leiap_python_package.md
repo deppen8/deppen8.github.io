@@ -1,7 +1,8 @@
 ---
-title: "leiap Python package"
-excerpt: "Interactive visualization of Baseball Hall of Fame voting<br/><img src='/images/leiap_logo_original.png'><br/>"
+title: "`leiap` Python package"
+excerpt: "Code written for the LEIA Project dataset<br/><img src='/images/leiap_logo_original.png'><br/>"
 collection: portfolio
+date: 2018-11-02
 ---
 
 [![badge](https://img.shields.io/badge/GitHub-leiap-blue.svg?logo=github)](https://github.com/deppen8/leiap)

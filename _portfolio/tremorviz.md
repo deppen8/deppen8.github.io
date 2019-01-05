@@ -2,6 +2,7 @@
 title: "TremorViz"
 excerpt: "Interactive visualization for seismic data<br/><img src='/images/blog/tremorviz.gif'><br/>"
 collection: portfolio
+date: 2018-09-20
 ---
 
 [![ghw_badge](https://img.shields.io/badge/GitHub-ghw2018__tremorviz-blue.svg?logo=github)](https://github.com/geohackweek/ghw2018_tremorviz/)

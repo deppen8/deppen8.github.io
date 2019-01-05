@@ -2,6 +2,7 @@
 title: "LEIA Project Metadata"
 excerpt: "Using metadata to understand better understand survey data and methods<br/><img src='/images/survey_time.png'><br/>"
 collection: portfolio
+date: 2016-06-01
 ---
 
 As part of the [Landscape, Encounters, and Identity Archaeology (LEIA) Project](https://leiap.weebly.com), we have been collecting data that will help us evaluate the efficacy of our survey. In the field, each surveyor is equipped with a handheld GPS. Roughly every ten meters, surveyors stop, record their location with the GPS, and scan the ground for artifacts, collecting anything they find. As a result, all locations searched (with or without artifacts) can be located in space. Beyond this simple spatial information, the data from the handheld GPS can be combined and leveraged in other ways to better understand the survey itself.

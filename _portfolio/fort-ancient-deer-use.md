@@ -2,6 +2,7 @@
 title: "Fort Ancient Deer Use"
 excerpt: "This project explored the complex relationships between climate change, white-tailed deer populations, and human behavior in prehistoric southwest Ohio.<br/><img src='/images/deppen_cook_2014.png'><br/>"
 collection: portfolio
+date: 2014-01-01
 ---
 
 This project explored the complex relationships between climate change, white-tailed deer populations, and human behavior in prehistoric southwest Ohio. The project began as a senior honors thesis at The Ohio State University under the supervision of Dr. Robert A. Cook and was ultimately expanded, refined, and published in the journal Environmental Archaeology.
