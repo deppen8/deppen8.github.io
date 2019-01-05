@@ -11,4 +11,6 @@ collection: portfolio
 
 Because the package is designed to be a catch-all for anything the LEIA Project needs, it covers a lot of ground: I/O, calculations, spatial data, visualizations, and more. There is even a chore scheduler for the field team. As much as possible, these different categories are separated into their own modules.
 
+The package is not available on PyPI simply because it is only intended for use by project members.
+
 Full code documentation for `leiap` is built with Sphinx and available on a [GitHub Pages site](https://deppen8.github.io/leiap/).
