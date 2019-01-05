@@ -1,6 +1,6 @@
 ---
 title: "BBHOFviz"
-excerpt: "Interactive visualization of Baseball Hall of Fame voting<br/><img src='/images/bbhofviz-01-04-19.png'><br/>"
+excerpt: "Interactive visualization of Baseball Hall of Fame voting<br/><img src='/images/bbhofviz-thumb.png'><br/>"
 collection: portfolio
 ---
 
