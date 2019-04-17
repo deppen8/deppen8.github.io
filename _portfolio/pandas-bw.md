@@ -10,7 +10,7 @@ date: 2019-02-14
 
 [Pandas in black and white](https/deppen8.github.io/pandas-bw) is an attempt to collect some best tips and how-tos for using pandas into a set of flashcards. The flashcards consist of opinions on syntax, usage, and programming patterns. The project is explictly **OPINIONATED**, so I don't expect all tips to fit all situations. If you don't like something or know of an edge case, start a discussion in the Issues on GitHub.
 
-![flashcard examples](images/pandas-bw.png)
+![flashcard examples](/images/pandas-bw.png)
 
 ## Background
 
