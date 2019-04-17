@@ -1,5 +1,5 @@
 ---
-title: "pandas-vet"
+title: "`pandas-vet` plugin"
 excerpt: "A plugin for `flake8` that provides opinionated linting for pandas code<br/>"
 collection: portfolio
 date: 2019-02-25
