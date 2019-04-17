@@ -9,9 +9,9 @@ redirect_from:
 ---
 I am a PhD candidate in archaeology within the [Department of Anthropology](https://anthropology.washington.edu/) at the [University of Washington](https://uw.edu/) in Seattle, USA.
 
-For my PhD project, I am building a set of software tools, SurveySim, that will simulate archaeological field surveys. These tools will assist in all stages of a survey project. In the planning stages, they can show how different field methodologies might change the expectations about the possible results of a survey. The tools can also be used to demonstrate compliance with heritage regulations regarding field methods.
+For my PhD project, I am building a Python package, [`prospect`](/portfolio/prospect/), that will simulate archaeological field surveys. These tools will assist in all stages of a survey project. In the planning stages, they can show how different field methodologies might change the expectations about the possible results of a survey. The tools can also be used to demonstrate compliance with heritage regulations regarding field methods.
 
-SurveySim will also be useful after a survey has taken place. It can accept inputs of existing data like transect and find locations and "re-run" the survey with a variety of different parameters. For example, the user could vary the surface visibility or the surveyor skill to see how those parameters might have impacted the observed results.
+`prospect` will also be useful after a survey has taken place. It can accept inputs of existing data like transect and find locations and "re-run" the survey with a variety of different parameters. For example, the user could vary the surface visibility or the surveyor skill to see how those parameters might have impacted the observed results.
 
 The software will also provide tools to summarize and visualize the results of a simulation and comparisons between different runs.
 
