@@ -1,6 +1,6 @@
 ---
 title: "pandas in black and white"
-excerpt: "A collection flashcards full of opinions on `pandas` syntax, usage, and programming patterns<br/><img src='/images/inplace-false.png'"
+excerpt: "A collection of flashcards full of opinions on `pandas` syntax, usage, and programming patterns<br/><img src='/images/inplace-false.png'><br/>"
 collection: portfolio
 date: 2019-02-14
 ---
