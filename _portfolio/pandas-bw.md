@@ -8,9 +8,9 @@ date: 2019-02-14
 [![badge](https://img.shields.io/website/https/deppen8.github.io/pandas-bw.svg)](https/deppen8.github.io/pandas-bw)
 [![badge](https://img.shields.io/badge/GitHub-pandas--bw-blue.svg?logo=github)](https://github.com/deppen8/pandas-bw)
 
-<img align="left" src="/images/pandas-bw.png">
-
 [Pandas in black and white](https/deppen8.github.io/pandas-bw) is an attempt to collect some best tips and how-tos for using pandas into a set of flashcards. The flashcards consist of opinions on syntax, usage, and programming patterns. The project is explictly **OPINIONATED**, so I don't expect all tips to fit all situations. If you don't like something or know of an edge case, start a discussion in the Issues on GitHub.
+
+![flashcard examples](images/pandas-bw.png)
 
 ## Background
 
