@@ -10,7 +10,7 @@ Outside of my industry and academic work, I greatly enjoy teaching and contribut
 
 [Email](mailto:deppen.8@gmail.com)
 
-[LinkedIn](www.linkedin.com/in/jacob-deppen)
+[LinkedIn](https://www.linkedin.com/in/jacob-deppen)
 
 [![GitHub followers](https://img.shields.io/github/followers/deppen8?style=social)](https://github.com/deppen8)
 
