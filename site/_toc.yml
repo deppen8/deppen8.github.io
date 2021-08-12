@@ -1,0 +1,29 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+chapters:
+- file: research/index
+  sections:
+  - file: research/prospect
+  - file: research/leiap-pkg
+  - file: research/leiap-metadata
+  - file: research/fort-ancient-deer-use
+  - file: research/publications
+- file: open-source/index
+  sections:
+  - file: open-source/pandas-vet
+  - file: open-source/pandas-bw
+  - file: open-source/htcondor-submission-creator
+- file: dataviz/index
+  sections:
+  - file: dataviz/bbhofviz
+  - file: dataviz/husky-altair-theme
+  - file: dataviz/tremorviz
+  - file: dataviz/bokeh-scatter-linked-table
+- file: community/index
+  sections:
+  - file: community/sprints
+  - file: community/carpentries
+  - file: community/puppy-scicomp
